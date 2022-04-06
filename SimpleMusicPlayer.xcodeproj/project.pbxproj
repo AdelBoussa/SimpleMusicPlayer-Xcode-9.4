@@ -14,6 +14,7 @@
 		C372D8A427D820CF003E5325 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C372D8A227D820CF003E5325 /* LaunchScreen.storyboard */; };
 		C372D8AF27D820D0003E5325 /* SimpleMusicPlayerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C372D8AE27D820D0003E5325 /* SimpleMusicPlayerTests.swift */; };
 		C372D8BA27D820D0003E5325 /* SimpleMusicPlayerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C372D8B927D820D0003E5325 /* SimpleMusicPlayerUITests.swift */; };
+		C372D8C827D821B1003E5325 /* DownMaster1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C372D8C727D821B1003E5325 /* DownMaster1.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C372D8B527D820D0003E5325 /* SimpleMusicPlayerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleMusicPlayerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C372D8B927D820D0003E5325 /* SimpleMusicPlayerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleMusicPlayerUITests.swift; sourceTree = "<group>"; };
 		C372D8BB27D820D0003E5325 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C372D8C727D821B1003E5325 /* DownMaster1.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DownMaster1.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				C372D8AD27D820D0003E5325 /* SimpleMusicPlayerTests */,
 				C372D8B827D820D0003E5325 /* SimpleMusicPlayerUITests */,
 				C372D89727D820CE003E5325 /* Products */,
+				C372D8C727D821B1003E5325 /* DownMaster1.mp3 */,
 			);
 			sourceTree = "<group>";
 		};
@@ -231,6 +234,7 @@
 			files = (
 				C372D8A427D820CF003E5325 /* LaunchScreen.storyboard in Resources */,
 				C372D8A127D820CF003E5325 /* Assets.xcassets in Resources */,
+				C372D8C827D821B1003E5325 /* DownMaster1.mp3 in Resources */,
 				C372D89F27D820CE003E5325 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
